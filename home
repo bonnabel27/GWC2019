@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Home</title>
+    <button type="button" name="Click Here!"><a href="aboutsika.html">Click Here!</a></button>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <center><h1>Welcome to my website!</h1></center>
+    <embed src="spice.mp3" autostart="true">
+    <p>Please enjoy this photo of "my" cat</p>
+    <img src="mybaby.jpg" width="250" height="300">
+  </body>
+</html>
